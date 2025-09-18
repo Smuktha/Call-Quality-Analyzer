@@ -1,4 +1,3 @@
-```markdown
 # Call Quality Analyzer
 
 This project is my assignment submission for the Voice AI startup. I have implemented a Call Quality Analyzer using Python in Jupyter Notebook.
@@ -35,5 +34,3 @@ The analysis includes:
 
 
 ---
-
-If you want, I can **also make a tiny “submission ready” tip sheet** for your GitHub repo so it looks extra professional to the startup. It’ll take less than 5 minutes to prep. Do you want me to do that?
